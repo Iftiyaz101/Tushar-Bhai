@@ -7,4 +7,4 @@ And I click on the song I wanted
 Then the song will be played
 Examples: 
 | song name                   |
-| KING Z - Exaggerating(Audio)|
+| KING Z is a dumb            |
